@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **audio and/or web related projects**
 
-- 👨‍💻 All of my projects as a sound designer are available at [https:/www.jbthesoundguy.com](www.jbthesoundguy.com)
+- 👨‍💻 All of my projects as a sound designer are available at [www.jbthesoundguy.com](https:/www.jbthesoundguy.com)
 
 - 💬 Ask me about **Interactive audio for video games**
 
